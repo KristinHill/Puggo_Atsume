@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "puggo_atsume",
+    "slug": "puggo_atsume",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "puggo_atsume"
+}
